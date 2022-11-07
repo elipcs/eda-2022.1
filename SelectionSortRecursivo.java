@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-class SelectionSortPassoAPasso {
+class SelectionSortRecursivo {
     public static void main(String[] args) {       
         int[] inteiros = getArray();
         selectionSort(inteiros, 0);
